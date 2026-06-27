@@ -1,0 +1,19 @@
+## Interface: 120007
+## Title: ClassResourceBar
+## Notes: 全职业资源条监控与将满预警 (12.0.7 Midnight)
+## Author: 无巧
+## Version: 0.1.0
+## SavedVariables: ClassResourceBarDB
+## X-Category: Combat
+## X-Website: https://github.com/KuangForKuang
+
+Init.lua
+PowerDB.lua
+Bar.lua
+BarPool.lua
+Alert.lua
+Layout.lua
+MemoryManager.lua
+API.lua
+Config.lua
+Core.lua
