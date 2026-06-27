@@ -5,7 +5,7 @@
 ## Version: 0.1.0
 ## SavedVariables: ClassResourceBarDB
 ## X-Category: Combat
-## X-Website: https://github.com/KuangForKuang
+## X-Website: https://github.com/KuangForKuang/ClassResourceBar
 
 Init.lua
 PowerDB.lua
